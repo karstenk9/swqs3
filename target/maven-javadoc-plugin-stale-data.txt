@@ -1,0 +1,30 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-14.0.2\bin\javadoc.exe" @options @argfile"
+C:\Users\karst\git\SW-QS-A3\target\apidocs\allclasses-index.html = 1607275258866
+C:\Users\karst\git\SW-QS-A3\target\apidocs\allpackages-index.html = 1607275258882
+C:\Users\karst\git\SW-QS-A3\target\apidocs\argfile = 1607275257835
+C:\Users\karst\git\SW-QS-A3\target\apidocs\Calculator.html = 1607275258647
+C:\Users\karst\git\SW-QS-A3\target\apidocs\constant-values.html = 1607275258725
+C:\Users\karst\git\SW-QS-A3\target\apidocs\deprecated-list.html = 1607275258788
+C:\Users\karst\git\SW-QS-A3\target\apidocs\element-list = 1607275258679
+C:\Users\karst\git\SW-QS-A3\target\apidocs\help-doc.html = 1607275258913
+C:\Users\karst\git\SW-QS-A3\target\apidocs\ICalculator.html = 1607275258663
+C:\Users\karst\git\SW-QS-A3\target\apidocs\index-all.html = 1607275258850
+C:\Users\karst\git\SW-QS-A3\target\apidocs\index.html = 1607275258897
+C:\Users\karst\git\SW-QS-A3\target\apidocs\member-search-index.js = 1607275258835
+C:\Users\karst\git\SW-QS-A3\target\apidocs\member-search-index.zip = 1607275258850
+C:\Users\karst\git\SW-QS-A3\target\apidocs\options = 1607275257835
+C:\Users\karst\git\SW-QS-A3\target\apidocs\overview-tree.html = 1607275258772
+C:\Users\karst\git\SW-QS-A3\target\apidocs\package-search-index.js = 1607275258804
+C:\Users\karst\git\SW-QS-A3\target\apidocs\package-search-index.zip = 1607275258819
+C:\Users\karst\git\SW-QS-A3\target\apidocs\package-summary.html = 1607275258694
+C:\Users\karst\git\SW-QS-A3\target\apidocs\package-tree.html = 1607275258710
+C:\Users\karst\git\SW-QS-A3\target\apidocs\package-use.html = 1607275258757
+C:\Users\karst\git\SW-QS-A3\target\apidocs\script.js = 1607275258929
+C:\Users\karst\git\SW-QS-A3\target\apidocs\search.js = 1607275258944
+C:\Users\karst\git\SW-QS-A3\target\apidocs\stylesheet.css = 1607275258929
+C:\Users\karst\git\SW-QS-A3\target\apidocs\system-properties.html = 1607275258882
+C:\Users\karst\git\SW-QS-A3\target\apidocs\type-search-index.js = 1607275258819
+C:\Users\karst\git\SW-QS-A3\target\apidocs\type-search-index.zip = 1607275258835
